@@ -70,6 +70,8 @@ pipenv install
 ## Usage
 Navigate to the project root directory and run the main simulation script:
 
+pipenv shell
+
 python src/main.py
 
 ## Understanding the Classes
